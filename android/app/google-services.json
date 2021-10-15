@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294528872769",
+    "project_id": "utilsapps-e81f4",
+    "storage_bucket": "utilsapps-e81f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294528872769:android:10a66c44afd885fb2d31c0",
+        "android_client_info": {
+          "package_name": "com.skizofrenks.aaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294528872769-9c9raq614ok49ogqmc8l4aml1tgk70ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf2uAIW-fvZclzW3hJEidkvs-E1Rsh6Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294528872769-9c9raq614ok49ogqmc8l4aml1tgk70ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
